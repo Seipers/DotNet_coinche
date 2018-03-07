@@ -1,0 +1,45 @@
+                                                                JAVA | JCoinche Project | Documentation
+
+## Introduction
+
+This document's purpose is to present the JCoinche project and describe 
+its Object-Oriented Design.
+
+## Project presentation
+
+JCoinche is a card game, divided into 2 parts.
+        - A client
+        - A server
+
+The client can:
+        - Chose his actions
+        - Play a card
+
+The server can:
+        - Handle client connection
+        - Manage game
+
+It runs on Kryo net lib for network
+
+## Client conception
+
+GameClient: 
+    this class is the core of client, it's manage different request sent by serer
+and allow user to interact with his card.
+
+ClientRequest:
+    this class is the main Object used by our client to communicate with our 
+dserver (player move, played action, information refresh ...)
+
+## Server conception
+
+GameServer:
+    this class is the core of game , it's manage teams, board creation to launch the game,
+room waitting.
+
+board:
+    this class it representing a gaming room (2 teams of 2 players) and the main loop of game.
+
+ServerRequest:
+    this class is used to send informations or commandes to our clients (status of board, status of request
+player move, ....)

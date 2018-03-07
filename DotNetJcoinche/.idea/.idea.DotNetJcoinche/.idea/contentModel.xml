@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.2/system/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_DotNetJcoinche.-1970053100.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Client" t="IncludeRecursive">
+        <e p="Bet.cs" t="Include" />
+        <e p="Card.cs" t="Include" />
+        <e p="CardEnum.cs" t="Include" />
+        <e p="CardNbEnum.cs" t="Include" />
+        <e p="Client.csproj" t="IncludeRecursive" />
+        <e p="ClientRequest.cs" t="Include" />
+        <e p="GameClient.cs" t="Include" />
+        <e p="OpCodeEnum.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ServerRequest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="DotNetJcoinche.sln" t="IncludeFlat" />
+      <e p="Server" t="IncludeRecursive">
+        <e p="Bet.cs" t="Include" />
+        <e p="Board.cs" t="Include" />
+        <e p="Card.cs" t="Include" />
+        <e p="CardEnum.cs" t="Include" />
+        <e p="CardNbEnum.cs" t="Include" />
+        <e p="ClientRequest.cs" t="Include" />
+        <e p="ClientSide.cs" t="Include" />
+        <e p="GameServer.cs" t="Include" />
+        <e p="OpCodeEnum.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Server.csproj" t="IncludeRecursive" />
+        <e p="ServerRequest.cs" t="Include" />
+        <e p="Team.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="Test" t="IncludeRecursive">
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Test.csproj" t="IncludeRecursive" />
+        <e p="Tests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

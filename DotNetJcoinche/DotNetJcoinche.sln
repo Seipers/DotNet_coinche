@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server/Server.csproj", "{52029A5E-D50E-4893-874A-C0C1CCE98027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{1503162F-E1DA-4423-9860-5900F8D418DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8A8B90CA-1441-4F7A-ACC6-1CDF72711F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52029A5E-D50E-4893-874A-C0C1CCE98027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52029A5E-D50E-4893-874A-C0C1CCE98027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52029A5E-D50E-4893-874A-C0C1CCE98027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52029A5E-D50E-4893-874A-C0C1CCE98027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1503162F-E1DA-4423-9860-5900F8D418DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1503162F-E1DA-4423-9860-5900F8D418DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1503162F-E1DA-4423-9860-5900F8D418DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1503162F-E1DA-4423-9860-5900F8D418DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8B90CA-1441-4F7A-ACC6-1CDF72711F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8B90CA-1441-4F7A-ACC6-1CDF72711F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8B90CA-1441-4F7A-ACC6-1CDF72711F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8B90CA-1441-4F7A-ACC6-1CDF72711F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
